@@ -1,6 +1,6 @@
 # FiveM Anti-Bunnyhop Script
 
-![FiveM](https://img.shields.io/badge/FiveM-Anti--Bunnyhop-blue.svg)  
+![FiveM](https://img.shields.io/badge/FiveM-OfTheForest--Anti--Bunnyhop-blue.svg)  
 A lightweight and effective **anti-bunnyhop script** for FiveM that prevents players from continuously jumping while sprinting or running by applying a ragdoll effect after a configurable number of jumps.
 
 ## Features
