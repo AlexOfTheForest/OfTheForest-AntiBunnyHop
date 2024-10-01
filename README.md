@@ -10,7 +10,7 @@ A lightweight and effective **anti-bunnyhop script** for FiveM that prevents pla
 
 ## Installation
 
-1. **Clone the repository** or [download it as a ZIP](https://github.com/AlexOfTheForest/fivem-anti-bunnyhop/archive/refs/heads/main.zip) and extract it to your FiveM server resources folder.
+1. **Clone the repository** or [download it as a ZIP] and extract it to your FiveM server resources folder.
     ```
     resources/
     ├── anti-bunnyhop/
