@@ -13,7 +13,7 @@ A lightweight and effective **anti-bunnyhop script** for FiveM that prevents pla
 1. **Clone the repository** or [download it as a ZIP](https://github.com/AlexOfTheForest/oftheforest_antibunny/archive/refs/heads/main.zip) and extract it to your FiveM server resources folder.
     ```
     resources/
-    ├── oftheforest_antibunnyhop/
+    ├── oftheforest_antibunny/
     │   ├── fxmanifest.lua
     │   └── client.lua
     ```
