@@ -1,6 +1,6 @@
 # FiveM Anti-Bunnyhop Script
 
-![FiveM](https://img.shields.io/badge/FiveM-OfTheForest--Anti--Bunnyhop-blue.svg)  
+![FiveM](https://img.shields.io/badge/FiveM-OfTheForest--AntiBunny-blue.svg)  
 A lightweight and effective **anti-bunnyhop script** for FiveM that prevents players from continuously jumping while sprinting or running by applying a ragdoll effect after a configurable number of jumps.
 
 ## Features
@@ -10,17 +10,17 @@ A lightweight and effective **anti-bunnyhop script** for FiveM that prevents pla
 
 ## Installation
 
-1. **Clone the repository** or [download it as a ZIP](https://github.com/AlexOfTheForest/OfTheForest-AntiBunnyHop/archive/refs/heads/main.zip) and extract it to your FiveM server resources folder.
+1. **Clone the repository** or [download it as a ZIP](https://github.com/AlexOfTheForest/oftheforest_antibunny/archive/refs/heads/main.zip) and extract it to your FiveM server resources folder.
     ```
     resources/
-    ├── anti-bunnyhop/
+    ├── oftheforest_antibunnyhop/
     │   ├── fxmanifest.lua
     │   └── client.lua
     ```
 
 2. **Add the resource to your `server.cfg`** by adding the following line:
     ```bash
-    start anti-bunnyhop
+    start oftheforest_antibunny
     ```
 
 3. **Optional Configuration**:
@@ -32,7 +32,7 @@ A lightweight and effective **anti-bunnyhop script** for FiveM that prevents pla
 
 4. **Restart your server** or run the command below to load the resource:
     ```bash
-    restart anti-bunnyhop
+    restart oftheforest_antibunny
     ```
 
 ## Configuration
